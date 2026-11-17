@@ -25,8 +25,8 @@ spec:
         seccompProfile:
           type: RuntimeDefault
       containers:
-      - image: ghcr.io/cloudnativedaysjp/cnd-handson-app/handson:legacy
-        imagePullPolicy: IfNotPresent
+      - image: ghcr.io/cloudnativedaysjp/cnd-handson-app/handson:modern
+      imagePullPolicy: IfNotPresent
         name: handson
         ports:
         - name: http
