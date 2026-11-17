@@ -10,7 +10,7 @@ spec:
   project: default
   sources:
   # 画面
-  - repoURL: https://github.com/<GITHUB_USER>/cnd-handson
+  - repoURL: https://github.com/take-saki/cnd-handson
     targetRevision: main
     path: chapter_argocd/app/default
   # バックエンド
