@@ -4,4 +4,4 @@ metadata:
   name: app-httproute
 spec:
   hostnames:
-  - prod-kustomize-argocd.vm21.handson.cloudnativedays.jp
+  - prd-kustomize-argocd.vm21.handson.cloudnativedays.jp
